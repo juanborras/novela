@@ -1,0 +1,2 @@
+# novela
+Git functionality tests
